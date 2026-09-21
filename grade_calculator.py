@@ -3,3 +3,5 @@ print("Hello", name)
 maths=float(input("Enter your maths mark :"))
 english=float(input("Enter your english mark:"))
 physics=float(input("Enter your physics mark:"))
+average=(maths+english+physics)/3
+print("Your average is:",average)
