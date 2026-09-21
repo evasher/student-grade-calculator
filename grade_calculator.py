@@ -1,2 +1,5 @@
 name=input("What is your name")
 print("Hello", name)
+maths=float(input("Enter your maths mark :"))
+english=float(input("Enter your english mark:"))
+physics=float(input("Enter your physics mark:"))
