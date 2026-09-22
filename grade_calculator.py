@@ -14,6 +14,6 @@ elif average >=60:
 elif average >=50:
   grade="D"
 else:
-  grade='"E"
+  grade="E"
 
 print(Your grade is:", grade)
