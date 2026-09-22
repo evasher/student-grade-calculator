@@ -37,5 +37,4 @@ While building this project, I learned:
 
 ```bash
 python grade_calculator.py
-## Author
-Evasher
+
